@@ -1,5 +1,4 @@
 [
-{"List of ward offices with lat & longs":"","Column1":"","Column2":"","Column3":"","Column4":"","Column5":"","Column6":""},
 {"List of ward offices with lat & longs":"Sr No","Column1":"Facility Type/Category","Column2":"Name of Facility","Column3":"Address","Column4":"Location(lat,long)","Column5":"Prabhag Name","Column6":"Ward Name"},
 {"List of ward offices with lat & longs":"1","Column1":"PMC Ward Office","Column2":"VishramBaughWada","Column3":"","Column4":"(18.51314,73.85345)","Column5":"New English School (Tilak Road)","Column6":"Kasba Vishrambaugwada"},
 {"List of ward offices with lat & longs":"2","Column1":"PMC Ward Office","Column2":"Sangamwadi","Column3":"","Column4":"(18.545199,73.887809)","Column5":"Deccan College","Column6":"Sangamwadi"},
@@ -15,7 +14,5 @@
 {"List of ward offices with lat & longs":"12","Column1":"PMC Ward Office","Column2":"Hadapsar","Column3":"","Column4":"(18.499801,73.934399)","Column5":"Gliding center, Hadapsar","Column6":"Hadpsar"},
 {"List of ward offices with lat & longs":"13","Column1":"PMC Ward Office","Column2":"Yerwada","Column3":"","Column4":"(18.557895,73.908695)","Column5":"Vimannagar","Column6":"Nagar Road"},
 {"List of ward offices with lat & longs":"14","Column1":"PMC Ward Office","Column2":"Tilak Road","Column3":"","Column4":"(18.503314,73.855851)","Column5":"Peshve Park","Column6":"Tillak Rasta"},
-{"List of ward offices with lat & longs":"15","Column1":"PMC Ward Office","Column2":"Aundh","Column3":"","Column4":"(18.561244, 73.81469700000002)","Column5":"Pune vidhyapith ,ROHAN NILAY ,SPISAR COLLAGE ,Aundh jakat nake ,Aundh shektriy karyalay ,Sakal nagar ,Yashada","Column6":"Aundh"},
-{"List of ward offices with lat & longs":"","Column1":"","Column2":"","Column3":"","Column4":"","Column5":"","Column6":""},
-{"List of ward offices with lat & longs":"Note- subject to change with addition/ deletion of facilities.Source- http://wfms.punecorporation.org/","Column1":"","Column2":"","Column3":"","Column4":"","Column5":"","Column6":""}
+{"List of ward offices with lat & longs":"15","Column1":"PMC Ward Office","Column2":"Aundh","Column3":"","Column4":"(18.561244, 73.81469700000002)","Column5":"Pune vidhyapith ,ROHAN NILAY ,SPISAR COLLAGE ,Aundh jakat nake ,Aundh shektriy karyalay ,Sakal nagar ,Yashada","Column6":"Aundh"}
 ]
